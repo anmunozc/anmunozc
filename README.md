@@ -25,4 +25,3 @@
 <p><a href="https://www.buymeacoffee.com/anmunozc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anmunozc" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmunozc&show_icons=true&locale=en&layout=compact" alt="anmunozc" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmunozc" alt="anmunozc" /></a> </p>
